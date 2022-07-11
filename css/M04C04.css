@@ -1,0 +1,11 @@
+
+body{
+    text-align: center;
+}
+.fondoGris{
+    background-color: rgb(196, 194, 194);
+}
+#btn{
+    background-color: blue;
+    color: white;
+}

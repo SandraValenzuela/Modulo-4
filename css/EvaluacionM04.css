@@ -1,0 +1,42 @@
+
+body{
+    background-color: rgb(67, 67, 241);
+    text-align: center;
+}
+
+h1{
+    color: white;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+
+.input{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    width: 450px;
+    height: 50px;
+    margin: 5px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border: 0;
+    border-radius: 10px;
+    background-color: white;
+    font-size: 18px;
+}
+.boton-agregar {
+    width: 50px;
+    height: 50px;
+    margin: 5px;
+    border: 0;
+    border-radius: 10px;
+    background-color: rgb(255, 6, 46);
+    color: white;
+     
+}
+.boton-agregar:hover{
+    background-color: rgb(255, 6, 46);
+    color: white;
+    transform: scale(0.9);
+}
